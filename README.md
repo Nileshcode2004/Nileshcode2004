@@ -1,5 +1,12 @@
+<br />
+<br />
 
-<h1 align="center">Hi 👋, I'm Nilesh Verma</h1>
+<img src="https://raw.githubusercontent.com/amansaxena1/amansaxena1/master/amansaxena.gif">
+<br />
+<br />
+
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="34px" alt="hi">
+, I'm Nilesh Verma</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
